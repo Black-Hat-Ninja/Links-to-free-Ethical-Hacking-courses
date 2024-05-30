@@ -32,4 +32,4 @@ Whether you are a seasoned professional looking to sharpen your skills or a newc
 Thank you for being a part of our community. Let's continue to learn, grow, and innovate—together.
 
 The Black Hat Ninjas Team
-ChatGPT can make mistakes. Check important info.
+
